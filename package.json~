@@ -1,0 +1,12 @@
+{
+	"author":"Amit kumar",
+	"name" : "censorify",
+	"version": "0.1.1",
+	"description": "Censor words of text",
+	"main" : "censortext",
+	"dependencies" : {},
+	"repository" : {},
+	"engines":{
+		"node":"*"	
+	}
+}
